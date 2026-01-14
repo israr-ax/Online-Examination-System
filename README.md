@@ -33,7 +33,7 @@ Follow the steps below to run this project on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Online-Examination-System.git
+git clone https://github.com/israr-ax/Online-Examination-System.git
 cd Online-Examination-System
 ```
 
@@ -140,5 +140,3 @@ Online-Examination-System/
 ├── requirements.txt
 └── README.md
 ```
-
----
